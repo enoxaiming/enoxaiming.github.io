@@ -1,11 +1,10 @@
 # Site settings
 # in the templates available like {{ site.myvariable }}.
-title: Clean portfolio theme for Jekyll powered by Bootstrap 4.
+title: 아직 하고싶은게 너무 많은 고3 개발자
 email: enoxaiming@naver.com
-brand: En0xAiming
-headline: On Top
-description: > # this means to ignore newlines until "baseurl:"
-  New Site
+brand: Enoxaiming
+headline: 한마디로 정리하기 어려운, 그만큼 하고싶고 좋아하는게 많은 학생
+description: 그냥그냥 설명들
 baseurl: "http://enoxaiming.github.io" # the subpath of your site, e.g. /blog
 url: "http://enoxaiming.github.io" # the base hostname & protocol for your site
 copyright: 2016 Whatever Company, Inc. All Rights Reserved.
@@ -21,4 +20,4 @@ email: enoxaiming@naver.com
 phone: +82 10-3801-9634
 
 # Tracking
-googleAnalitycsID: UA-83933844-1
+googleAnalitycsID: UA-91582410-1
